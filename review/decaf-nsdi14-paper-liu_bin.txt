@@ -1,0 +1,16 @@
+# name: Ruian Duan
+# date: 09/24/2014
+
+1. what's the problem?
+There are mainly two kinds of mobile advertisements, pay-per-click, pay-per-view. 
+Two kinds of fraud, click fraud, placement fraud. This paper focuses on detecting 
+placement fraud.
+
+2. why should we care?
+
+3. what's the key idea to solve this problem?
+
+4. how can we believe their solution?
+
+5. anything surprising?
+

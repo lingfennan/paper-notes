@@ -5,3 +5,5 @@ SRI
 
 RSA
 
+Useful tool for debian packages (source list generation):
+http://debgen.simplylinux.ch

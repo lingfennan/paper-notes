@@ -1,0 +1,19 @@
+{
+  "name": "IoT Authentication",
+  "description": "My first Chrome App.",
+  "version": "0.1",
+  "manifest_version": 2,
+  "app": {
+    "background": {
+      "scripts": ["background.js"]
+    }
+  },
+  "icons": { "128": "locked-128.png" },
+  "bluetooth": {
+    "uuids": ["fa87c0d0-afac-11de-8a39-0800200c9a66", "8ce255c0-200a-11e0-ac64-0800200c9a66"],
+    "socket": true
+  },
+  "externally_connectable": {
+    "matches": ["*://*.localhost.com/*", "*://*.xeroday.org/*"]
+  }
+}

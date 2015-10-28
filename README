@@ -7,3 +7,7 @@ RSA
 
 Useful tool for debian packages (source list generation):
 http://debgen.simplylinux.ch
+
+
+Java string similarity algorithms
+https://github.com/tdebatty/java-string-similarity

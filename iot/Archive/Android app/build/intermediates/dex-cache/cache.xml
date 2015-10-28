@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/ruian/Desktop/paper-notes/iot/Archive/Android app/Application/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/Users/ruian/Desktop/paper-notes/iot/Archive/Android app/Application/build/intermediates/pre-dexed/release/classes-e5f4b3d868466f030127b337bb23f3d6899040a7.jar" />
+    </item>
+    <item
+        jar="/Users/ruian/Desktop/paper-notes/iot/Archive/Android app/Application/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/Users/ruian/Desktop/paper-notes/iot/Archive/Android app/Application/build/intermediates/pre-dexed/release/internal_impl-23.0.0-c7a996b55c322ca3c7f0c81a5b2dabf55761c36e.jar" />
+    </item>
+    <item
+        jar="/Users/ruian/Desktop/paper-notes/iot/Archive/Android app/Application/libs/prov-1.53.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="72c4892e05c7563fbab0c4ada0187cd879113389">
+        <dex dex="/Users/ruian/Desktop/paper-notes/iot/Archive/Android app/Application/build/intermediates/pre-dexed/release/prov-1.53.0.0-f23cae449f8180fc134c31da17ce96c0ffde3131.jar" />
+    </item>
+    <item
+        jar="/Users/ruian/Desktop/paper-notes/iot/Archive/Android app/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1ccbc26be2c465c622a48310e8092241b01abe80">
+        <dex dex="/Users/ruian/Desktop/paper-notes/iot/Archive/Android app/Application/build/intermediates/pre-dexed/release/classes-38089a4bfcf2857a4c5cab0589a3613167d003e6.jar" />
+    </item>
+    <item
+        jar="/Users/ruian/Desktop/paper-notes/iot/Archive/Android app/Application/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1618fd467fb5971c394741e8976ededb97aaee0a">
+        <dex dex="/Users/ruian/Desktop/paper-notes/iot/Archive/Android app/Application/build/intermediates/pre-dexed/release/classes-a99c043619a8b1416dbae4c6dac1dd207a8ec549.jar" />
+    </item>
+    <item
+        jar="/Users/ruian/Desktop/paper-notes/iot/Archive/Android app/Application/libs/core-1.53.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="619f704791db186304325bd129b2e7ec34f77438">
+        <dex dex="/Users/ruian/Desktop/paper-notes/iot/Archive/Android app/Application/build/intermediates/pre-dexed/release/core-1.53.0.0-b30060bafba67fcf2b12dc46c6926ecbc54072a7.jar" />
+    </item>
+    <item
+        jar="/Users/ruian/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="/Users/ruian/Desktop/paper-notes/iot/Archive/Android app/Application/build/intermediates/pre-dexed/release/support-annotations-23.0.0-0224a147681135f5bead94c68ec75f9c300bf99e.jar" />
+    </item>
+    <item
+        jar="/Users/ruian/Desktop/paper-notes/iot/Archive/Android app/Application/libs/pkix-1.53.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="340c75534d964f468d82ed42006a7255362046c7">
+        <dex dex="/Users/ruian/Desktop/paper-notes/iot/Archive/Android app/Application/build/intermediates/pre-dexed/release/pkix-1.53.0.0-52bdaac08ad6d546f72c3efedfcdccc8ef2c299b.jar" />
+    </item>
+
+</items>

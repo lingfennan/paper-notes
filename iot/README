@@ -1,0 +1,28 @@
+Biometrics
+
+1. Variation/Consistency
+different time, different health/body condition, different environment/location
+2. Uniqueness
+1 out of 10000 people have N-th feature
+combinational, 1 out of 10000000 have all the features
+3. Hard to emulate
+sensors, how?
+If they know your parameters, they can just use something to emulate you.
+
+Examples: Fingerprints
+Cheat the lab/company | Cheat your owned device
+Taobao, cheap gloves can be used to record your fingerprint and authenticate as
+you.
+
+Possible features:
+Fitbit supports: body, foods, activities, sleep
+1. Body fat rate
+2. Weight
+3. Heart rate / first derivative / second derivative
+4. Behaviors (height), wrist size
+5. Sleep
+6. Food 
+7. Activity
+8. Glucose
+9. Blood pressure
+...
